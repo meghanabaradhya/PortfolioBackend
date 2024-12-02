@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "model": "Boeing 737",
+      "type": "Commercial Airliner",
+      "capacity": 215,
+      "range_km": 6570,
+      "engine_type": "Turbofan",
+      "manufacturer": "Boeing"
+    },
+    {
+      "id": 2,
+      "model": "Airbus A320",
+      "type": "Commercial Airliner",
+      "capacity": 180,
+      "range_km": 6300,
+      "engine_type": "Turbofan",
+      "manufacturer": "Airbus"
+    },
+    {
+      "id": 3,
+      "model": "Boeing 787 Dreamliner",
+      "type": "Commercial Airliner",
+      "capacity": 296,
+      "range_km": 14800,
+      "engine_type": "Turbofan",
+      "manufacturer": "Boeing"
+    },
+    {
+      "id": 4,
+      "model": "Airbus A380",
+      "type": "Commercial Airliner",
+      "capacity": 853,
+      "range_km": 15200,
+      "engine_type": "Turbofan",
+      "manufacturer": "Airbus"
+    },
+    {
+      "id": 5,
+      "model": "Cessna 172",
+      "type": "Private Aircraft",
+      "capacity": 4,
+      "range_km": 1289,
+      "engine_type": "Piston",
+      "manufacturer": "Cessna"
+    },
+    {
+      "id": 6,
+      "model": "Bombardier Global 7500",
+      "type": "Private Jet",
+      "capacity": 19,
+      "range_km": 14160,
+      "engine_type": "Turbofan",
+      "manufacturer": "Bombardier"
+    },
+    {
+      "id": 7,
+      "model": "Gulfstream G650",
+      "type": "Private Jet",
+      "capacity": 18,
+      "range_km": 12964,
+      "engine_type": "Turbofan",
+      "manufacturer": "Gulfstream Aerospace"
+    },
+    {
+      "id": 8,
+      "model": "Boeing 777",
+      "type": "Commercial Airliner",
+      "capacity": 396,
+      "range_km": 15600,
+      "engine_type": "Turbofan",
+      "manufacturer": "Boeing"
+    },
+    {
+      "id": 9,
+      "model": "Embraer E190",
+      "type": "Regional Jet",
+      "capacity": 114,
+      "range_km": 4537,
+      "engine_type": "Turbofan",
+      "manufacturer": "Embraer"
+    },
+    {
+      "id": 10,
+      "model": "Piper PA-28 Cherokee",
+      "type": "Private Aircraft",
+      "capacity": 4,
+      "range_km": 1020,
+      "engine_type": "Piston",
+      "manufacturer": "Piper Aircraft"
+    }
+]
+
